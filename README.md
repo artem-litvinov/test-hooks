@@ -1,2 +1,2 @@
 # test-hooks
-1
+2
